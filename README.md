@@ -1,3 +1,9 @@
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/unuserv01-lab/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/unuserv01-lab/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Built for [make.fun's gta6-twitch-ccu-forecast-01 bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01).
+
 # gta6-twitch-ccu-forecast-01 — "Three Worlds" forecaster
 
 Forecasts Grand Theft Auto VI's Twitch viewers for hours 2–24 of its
@@ -14,7 +20,7 @@ file alone. Entry for the make.fun bounty
    spike-then-collapse (hour 1 is the peak, then a fall), or rising
    (unlocks still rolling out, evening peak far above hour 1). The
    mixture of worlds lives in the distribution of these curves.
-3. **Condition on hour-1 size.** The 12 comparables whose log hour-1
+3. **Condition on hour-1 size.** The 16 comparables whose log hour-1
    is closest to the target's log hour-1 print form the reference
    class. A big hour 1 means most markets already unlocked (flat curve
    ahead); a small hour 1 means unlocks still coming (steep rise). On
